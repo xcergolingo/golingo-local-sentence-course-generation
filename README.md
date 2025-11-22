@@ -1,0 +1,1 @@
+# golingo-local-sentence-course-generation
